@@ -1,6 +1,8 @@
 public class Addition
 {
-	public static int main(int x,int y){
-	return 4+5;
+	public static void main(String[]args){
+	int a=5;
+	int b=7;
+	System.out.println("the sum is"+(a+b));
 	}
 }
